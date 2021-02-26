@@ -1,0 +1,26 @@
+html{
+  display: flex;
+  justify-content:center;
+}
+body{
+  background-color: yellow;
+  font-family: cursive;
+}
+h1{
+  color: red;
+}
+p{
+  color: blue;
+  text-align: center;
+}
+.form{
+  width:465px;
+  border: 1px solid black;
+  background-color: blue;
+  margin-top: 100px;
+  margin-left: 37px;
+}
+.form input , p{
+  margin: 20px;
+  text-transform: uppercase;
+}
