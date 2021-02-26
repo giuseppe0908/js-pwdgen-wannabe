@@ -29,5 +29,5 @@
     console.log(colore);
 
 
-    document.getElementById('informazioni').innerHTML = "Ecco tutti i dati che hai scritto. " + nome + " - " + cognome + " - " + data + " - " + colore + " - " + 21;
+    document.getElementById('informazioni').innerHTML = "Ecco la password che ho generato. " + nome + " - " + cognome + " - " + data + " - " + colore + " - " + 21;
 }
